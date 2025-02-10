@@ -41,7 +41,7 @@ export default function Home() {
 
           <div className="flex">
             <Link
-              href={""}
+              href={"https://wa.me/6285360027891"}
               className="bg-green-700 text-white py-2 px-4 flex items-center rounded-lg"
             >
               <Image
@@ -111,7 +111,7 @@ export default function Home() {
             </React.Fragment>
           ))}</p>
         </div>
-
+        
         <div className="mx-4 mb-10">
           <h1 className="font-semibold text-based mb-4">Metode Pembayaran :</h1>
 
@@ -202,8 +202,8 @@ export default function Home() {
 
         <div className="relative">
           <Link
-            href={""}
-            className="fixed bottom-6 right-4 left-4 bg-black text-white px-6 py-3 rounded-full shadow-lg transition-all text-lg font-semibold flex items-center justify-center"
+            href={"https://wa.me/6285360027891"}
+            className="fixed bottom-6 right-4 left-4 bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg transition-all text-lg font-semibold flex items-center justify-center"
           >
             <Image
               alt=""
